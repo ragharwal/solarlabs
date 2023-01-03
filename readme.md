@@ -11,6 +11,6 @@
 <br />
 
 ## Project Images
-![India](assets\images\india.png)
-![China](assets\images\china.png)
-![Pakistan](assets\images\pakistan.png)
+![India](https://github.com/ragharwal/solarlabs/blob/main/assets/images/india.png)
+![China](https://github.com/ragharwal/solarlabs/blob/main/assets/images/china.png)
+![Pakistan](https://github.com/ragharwal/solarlabs/blob/main/assets/images/pakistan.png)
